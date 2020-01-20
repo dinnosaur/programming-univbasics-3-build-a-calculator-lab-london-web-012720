@@ -20,6 +20,8 @@ num1 *num2
 end
 
 def modulo(num1, num2)
+modula=num1/num2
+
 
 end
 
